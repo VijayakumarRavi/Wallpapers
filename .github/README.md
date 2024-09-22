@@ -4,7 +4,7 @@ A collection of wallpapers and a script to set them easily.
 
 ## Preview
 
-To view the collection of wallpapers and preview them, check out our [Wallpapers Gallery](docs/wallpapers.md).
+To view the collection of wallpapers and preview them, check out our [Wallpapers Gallery](../docs/wallpapers.md).
 
 ## Usage
 
