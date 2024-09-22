@@ -2,6 +2,10 @@
 
 A collection of wallpapers and a script to set them easily.
 
+## Preview
+
+To view the collection of wallpapers and preview them, check out our [Wallpapers Gallery](docs/wallpapers.md).
+
 ## Usage
 
 This project is set up as a Nix flake. To use it, follow these steps:
