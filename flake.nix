@@ -31,7 +31,7 @@
               set -euo pipefail
 
               # Default folder for images
-              DEFAULT_DIR="$HOME/Developer/Github/Wallpapers"
+              DEFAULT_DIR="${self}/images"
               if [[ -n "''${1-}" ]]; then
                 IMAGE_DIR="$1"
               else
